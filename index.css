@@ -26,6 +26,7 @@ body{
     background-color: #effcff;
     width: 50%;
 }
+
 .avt{
     width: 200px;
     height: 200px;
@@ -39,6 +40,7 @@ body{
     background-color: #4b565d;
     border: 2px solid #333;
     position: relative;
+    margin-bottom: 10px;
 }
   
 .rectangle p {
@@ -59,10 +61,11 @@ body{
 .main_right{
     background-color: #FFFFFF;
     width: 50%;
+
 }
 .header_right{
     height: 180px;
-    margin: 40px;
+    margin: 10px;
     text-align: center;
 }
 .intern{
